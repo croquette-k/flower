@@ -213,7 +213,7 @@ h2 {
   font-size: 16px;
   margin-bottom: 20px;
 }
-#access a {
+#access .map {
   display: inline-block;
   font-size: 16px;
   line-height: 50px;
