@@ -222,7 +222,7 @@ h2 {
   width: 270px;
   transition: 0.3s;
 }
-#access a:hover {
+#access .map:hover {
   background-color: #050507;
 }
 
